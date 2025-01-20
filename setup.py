@@ -9,7 +9,7 @@ setup(
         "pycryptodome>=3.9.0",
     ],
     author="Taiinyy",
-    author_email="your.email@example.com",
+    author_email="adyenavs@outlook.com",
     description="FirstData V1 card encryption implementation",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
